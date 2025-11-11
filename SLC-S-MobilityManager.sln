@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alarm Distribution Mobility
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetAlarmDistributionForDistance", "GetAlarmDistributionForDistance\GetAlarmDistributionForDistance.csproj", "{37EBE1E4-E743-BCD2-A5FE-6B29199A9613}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetAlarmDistributionForDuration", "GetAlarmDistributionForDuration\GetAlarmDistributionForDuration.csproj", "{D19B635E-E036-A21B-5155-16C742997EEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +50,10 @@ Global
 		{37EBE1E4-E743-BCD2-A5FE-6B29199A9613}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37EBE1E4-E743-BCD2-A5FE-6B29199A9613}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37EBE1E4-E743-BCD2-A5FE-6B29199A9613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D19B635E-E036-A21B-5155-16C742997EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D19B635E-E036-A21B-5155-16C742997EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D19B635E-E036-A21B-5155-16C742997EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D19B635E-E036-A21B-5155-16C742997EEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
