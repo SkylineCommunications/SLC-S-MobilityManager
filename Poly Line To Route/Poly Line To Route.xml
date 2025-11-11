@@ -1,0 +1,23 @@
+<DMSScript options="272" xmlns="http://www.skyline.be/automation">
+	<Name>Poly Line To Route</Name>
+	<Description />
+	<Type>Automation</Type>
+	<Author>Tarik</Author>
+	<CheckSets>FALSE</CheckSets>
+	<Folder>Mobility Manager</Folder>
+	<Interactivity>Auto</Interactivity>
+	<Protocols>
+	</Protocols>
+	<Memory>
+	</Memory>
+	<Parameters>
+	</Parameters>
+	<Script>
+		<Exe id="1" type="csharp">
+			<Value><![CDATA[[Project:Poly Line To Route]]]></Value>
+			<Param type="preCompile">true</Param>
+			<Param type="libraryName">PolylineToRoute</Param>
+			<Message />
+		</Exe>
+	</Script>
+</DMSScript>
