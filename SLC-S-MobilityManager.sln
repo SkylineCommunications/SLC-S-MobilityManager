@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddNewLocation", "AddNewLoc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddNewRoute", "AddNewRoute\AddNewRoute.csproj", "{33A7420F-1342-5E91-0A23-223CC84A9205}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alarm Distribution Mobility Manager", "Alarm Distribution Mobility Manager\Alarm Distribution Mobility Manager.csproj", "{7E31B8C1-6B6C-D135-7108-976303963309}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +38,10 @@ Global
 		{33A7420F-1342-5E91-0A23-223CC84A9205}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33A7420F-1342-5E91-0A23-223CC84A9205}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33A7420F-1342-5E91-0A23-223CC84A9205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E31B8C1-6B6C-D135-7108-976303963309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E31B8C1-6B6C-D135-7108-976303963309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E31B8C1-6B6C-D135-7108-976303963309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E31B8C1-6B6C-D135-7108-976303963309}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
