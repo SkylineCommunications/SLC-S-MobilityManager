@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36623.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLC-S-MobilityManager", "SLC-S-MobilityManager\SLC-S-MobilityManager.csproj", "{75C0EE34-583E-4963-AD83-DC3D62490209}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLC-S-CityOps MobilityManager", "SLC-S-MobilityManager\SLC-S-CityOps MobilityManager.csproj", "{75C0EE34-583E-4963-AD83-DC3D62490209}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Internal", "Internal", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
