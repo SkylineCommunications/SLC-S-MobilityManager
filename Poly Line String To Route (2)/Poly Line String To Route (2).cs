@@ -3,9 +3,7 @@ namespace PolyLineToRoute
     using System;
     using System.Collections.Generic;
     using System.Linq;
-
     using Skyline.DataMiner.Analytics.GenericInterface;
-    using Skyline.DataMiner.Net.Messages;
 
     [GQIMetaData(Name = "Poly Line String To Route Tarik")]
     public sealed class PolyLineToRoute : IGQIDataSource, IGQIOnInit, IGQIInputArguments, IGQIOnPrepareFetch
